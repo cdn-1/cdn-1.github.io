@@ -124,7 +124,7 @@
       },
       "textSize":180,
       "textColor":"#000000",
-      "textAlign":"center",
+      "textAlign":"center"
     },
     "errorOnDecline":"Без доступа я не могу продолжить анализ"
   }
