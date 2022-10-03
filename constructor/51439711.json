@@ -106,7 +106,7 @@
   ],
   "settings":{
     "bg":"https://sun9-east.userapi.com/sun9-19/s/v1/ig2/1jZyPc4Eszyzfx3MUfX_2CPoz_GygA8Q0n08UUCpGHoA3JDMkk1QPVfnO51qBoQ__8knFEqy-VsG-kc_nLR-hC68.jpg?size=1080x1920&quality=96&type=album",
-    "story":"https://psv4.userapi.com/c235031/u69669411/docs/d38/4360efeb73f0/story_grid.png",
+    "story":"https://psv4.userapi.com/c237231/u69669411/docs/d5/3b06ef7042fc/psyco_story_1.png?extra=YHqHz1AlkB3A9t15opzCkVXR9Dz-JO2KIg13q0HdjATeNtTVQt_oOEAXlJnBNlDh6SHQkki2PV1JBFXkgGews-Xsis_rZWO9k8UceW5IzzeUbUWVdNz2NxFor4XnXY6cY5rvows3KQ8zGD3oI5wzJ3w",
     "storySettings":{
       "random":{
         "min":1,
@@ -114,15 +114,17 @@
       },
       "resultText":"Ваш психологический возраст:",
       "text":[
-        "год",
-        "года",
-        "лет"
+        " год",
+        " года",
+        " лет"
       ],
       "position":{
-        "x":500,
-        "y":500
+        "x":480,
+        "y":600
       },
-      "textSize":55
+      "textSize":180,
+      "textColor":"#000000",
+      "textAlign":"center",
     },
     "errorOnDecline":"Без доступа я не могу продолжить анализ"
   }
