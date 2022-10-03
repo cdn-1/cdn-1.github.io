@@ -109,8 +109,8 @@
     "story":"https://psv4.userapi.com/c237231/u69669411/docs/d5/3b06ef7042fc/psyco_story_1.png?extra=YHqHz1AlkB3A9t15opzCkVXR9Dz-JO2KIg13q0HdjATeNtTVQt_oOEAXlJnBNlDh6SHQkki2PV1JBFXkgGews-Xsis_rZWO9k8UceW5IzzeUbUWVdNz2NxFor4XnXY6cY5rvows3KQ8zGD3oI5wzJ3w",
     "storySettings":{
       "random":{
-        "min":1,
-        "max":2
+        "min":5,
+        "max":88
       },
       "resultText":"Ваш психологический возраст:",
       "text":[
